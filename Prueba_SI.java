@@ -17,6 +17,8 @@ public class Prueba_SI {
         System.out.println("holaaa");
 	System.out.println("Qué tal?");
 	System.out.printlin("Cambio hecho por el Alumno B");
+	System.out.printlin("Trabajo terminado");
+
     }
     
 }
